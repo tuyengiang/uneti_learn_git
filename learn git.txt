@@ -4,4 +4,14 @@
   eg: git clone https://github.com/duongcuong96/uneti_learn_git.git 
   
 - update project đã clone trong máy : 
+    git pull : lệnh này sẽ update file mới trong project về folder của mình !!
+    
+
+- Tạo nhánh (branch )mới, branch là kiểu 1 phiên bản khác với phiên bản hiện tại..... kiểu kiểu thế :V 
+
+        git branch <Tên branch>
+        
+        eg : git branch verion2
+        
+- List nhánh : git branch 
     
