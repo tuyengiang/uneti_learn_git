@@ -1,0 +1,7 @@
+# Một số lệnh Git cơ bản 
+
+- git clone < tên đường dẫn .git  > : clone project về máy
+  eg: git clone https://github.com/duongcuong96/uneti_learn_git.git 
+  
+- update project đã clone trong máy : 
+    
