@@ -13,4 +13,5 @@
         
         eg : git branch verion2
         
+- List nhánh : git branch 
     
